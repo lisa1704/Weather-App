@@ -6,6 +6,6 @@
 - Use any server to run this application
 
 <html>
-  <img src="https://user-images.githubusercontent.com/47085691/114232614-ef61a080-999d-11eb-9530-0edaa8211756.jpeg" width=300/>
+  <img src="https://user-images.githubusercontent.com/47085691/114232614-ef61a080-999d-11eb-9530-0edaa8211756.jpeg" width=600/>
 </html>
 
